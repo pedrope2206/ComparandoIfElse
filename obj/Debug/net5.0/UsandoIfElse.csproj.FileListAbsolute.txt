@@ -1,0 +1,16 @@
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\UsandoIfElse.exe
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\UsandoIfElse.deps.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\UsandoIfElse.runtimeconfig.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\UsandoIfElse.runtimeconfig.dev.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\UsandoIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\ref\UsandoIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\bin\Debug\net5.0\UsandoIfElse.pdb
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.csproj.AssemblyReference.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.AssemblyInfoInputs.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.AssemblyInfo.cs
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.csproj.CoreCompileInputs.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\ref\UsandoIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.pdb
+C:\projetos\AMS\1ano\EstruturaSwitchCase\UsandoIfElse\obj\Debug\net5.0\UsandoIfElse.genruntimeconfig.cache
