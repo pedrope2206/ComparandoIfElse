@@ -14,6 +14,7 @@ namespace UsandoIfElse
             string mes; 
 
             Console.WriteLine("Olá qual sue nome? ");
+            Console.WriteLine("Me informe:")
             nome = Console.ReadLine();
 
             Console.WriteLine($" Olá ,{nome}, poderia escrever o nome do mês que você quer saber quantos dia possui?");
